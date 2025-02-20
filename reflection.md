@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Ashlyn
+Sudent Email:  awoo05@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I learned how to use Streamlit to build interactive web apps, which was something entirely new for me. It was good to see how I could take the packaging.py module I created earlier and integrate it into a web interface. I started with a simple app in Part 1 that processed a single package string, and by Part 3, I had built a more advanced app that could handle multiple file uploads and track the total number of files and lines processed. One of the biggest challenges for me was figuring out how to manage the session state in Streamlit. At first, I wasn’t sure how to keep track of the history of files and totals, but after some trial and error, I got it to work. It felt like a small victory when I finally saw the app correctly display the summary information for each file. It was satisfying to see the app output clean, structured data that could be reused later. By the end, I felt more confident in my ability to handle file uploads, process data, and create user-friendly interfaces.
